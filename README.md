@@ -27,7 +27,7 @@ O projeto faz parte de um desafio proposto pelo **Curso em Vídeo**, com o objet
    ```bash
    git clone https://github.com/victorlcastro-dsa/login-site-desafio.git
    ```
-2. Abra o arquivo `index.html` no navegador de sua escolha para visualizar a página ou acesse: `https://victorlcastro-dsa.github.io/login-site-desafio/`.
+2. Abra o arquivo `index.html` no navegador de sua escolha para visualizar a página ou acesse: [Página de Login](https://victorlcastro-dsa.github.io/login-site-desafio/).
 
 ## Observação
 
